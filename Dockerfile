@@ -1,6 +1,6 @@
 # Galaxy - Open Molecule Generator
 
-FROM quay.io/bgruening/galaxy:16.01
+FROM quay.io/bgruening/galaxy:16.04
 
 MAINTAINER Björn A. Grüning, bjoern.gruening@gmail.com
 
